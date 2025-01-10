@@ -1,4 +1,4 @@
 #!/bin/bash
 touch sortie.txt
-ls > sotie.txt
+ls > sortie.txt
 cat sortie.txt
